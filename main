@@ -9,7 +9,7 @@ function myFunction() {
 </head>
 <body>
 
-<h1>A Web Page</h1>
+<h1> Js file for my website</h1>
 <p id="demo">A Paragraph</p>
 <button type="button" onclick="myFunction()">Try it</button>
 
